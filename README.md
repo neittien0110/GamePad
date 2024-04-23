@@ -14,4 +14,4 @@ Máy chơi game
 |Nút bấm 3x6x2.5  SMD|4| Up = GPIO12, Left = GPIO14, Down = GPIO9; Right = GPIO11|
 |Nút bấm phẳng 4x4x0.8 SMD |4| GPIO7|
 |Nút chạm Touch|2| GPIO3, GPIO5|
-|Oled 0.96" I2C|1| SCL=39, SDA=37|
+|[Oled 1.3" I2C](https://neittien0110.github.io/linhkiendientu/Screens.html)|1| SCL=39, SDA=37|
