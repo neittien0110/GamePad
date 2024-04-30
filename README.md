@@ -1,6 +1,8 @@
 # GAMEPAD
 
-Máy chơi game
+**Máy chơi game**\
+![mặt trước](frontboard.png)
+![mặt sau](rearboard.png)
 
 ## Tính năng
 
